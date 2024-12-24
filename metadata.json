@@ -2,7 +2,7 @@
     "name": "LUCKY COIN",
     "symbol": "LUCKY",
     "description": "LUCKY COIN - Scratch for Gold, Play for Fortune!",
-    "image": "https://raw.githubusercontent.com/solana-developers/bg9me/lucky/Luckyimage.png",
+    "image": "https://raw.githubusercontent.com/solana-developers/bg9me/lucky/LUCKYimage.png",
     "attributes": [
       {
         "trait_type": "Item",
