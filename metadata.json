@@ -1,0 +1,12 @@
+{
+    "name": "LUCKY LOTTERY",
+    "symbol": "LUCKY",
+    "description": "LUCKY COIN - Scratch for Gold, Play for Fortune!"",
+    "image": "https://raw.githubusercontent.com/solana-developers/bg9me/lucky/main/assets/DeveloperPortal/Luckyimage.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+  }
